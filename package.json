@@ -1,0 +1,21 @@
+{
+  "name": "nodedemo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bingosummer/nodedemo"
+  },
+  "author": "Bin Xia",
+  "license": "Apache License Version 2.0",
+  "bugs": {
+    "url": "https://github.com/bingosummer/nodedemo/issues"
+  },
+  "dependencies": {
+    "restify": "~4.0.4"
+  }
+}
